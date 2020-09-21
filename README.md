@@ -14,7 +14,7 @@ python -m SimpleHTTPServer
 python -m SimpleHTTPServer 8000
 ```
 
-指定后台运行，加&：
+指定后台运行，加`&`：
 ```
 python -m SimpleHTTPServer 8000 &
 ```
