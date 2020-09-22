@@ -5,5 +5,6 @@
 * [PHP](php/)
 	* [PHP常用命令](php/often_use_function.md)
 * [小程序](mini_app/)
+	* [资源收藏](mini_app/collect.md)
 * [数据库](db/)
 	* [更改MySQL数据库的编码为utf8mb4](db/set_mysql_character_utf8mb4.md)

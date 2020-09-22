@@ -30,3 +30,7 @@ nohup python -m SimpleHTTPServer 8000 &
 1. SimpleHTTPServer有一个特性，如果待共享的目录下有index.html，那么index.html文件会被视为默认主页；如果不存在index.html文件，那么就会显示整个目录列表。
 2. 在哪个目录下启动，就会以当前目录为根目录展示列表
 ```
+
+nprogress 预加载
+
+vticker 弹幕
